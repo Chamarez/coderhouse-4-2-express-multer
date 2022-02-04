@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  },
+  "name": "coder",
+  "description": "coder class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamarez/coderhouse-4-2-express-multer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamarez/coderhouse-4-2-express-multer/issues"
+  },
+  "homepage": "https://github.com/Chamarez/coderhouse-4-2-express-multer#readme"
+}
